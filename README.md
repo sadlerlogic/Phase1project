@@ -9,4 +9,6 @@ Javascript
 
 
 # Features
-Find Breweries by proximity, city, state, or style
+Find Breweries by proximity, city, state, or type
+Create a brewery list 
+Edit your brewery list
