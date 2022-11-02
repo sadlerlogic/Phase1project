@@ -9,6 +9,6 @@ Javascript
 
 
 # Features
-Find Breweries by proximity, city, state, or type
-Create a brewery list 
-Edit your brewery list
+Search for Breweries.
+Returns a list of breweries' name, phone number, and website.
+Erase your brewery list in order to start a new search.

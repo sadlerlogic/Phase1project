@@ -1,0 +1,22 @@
+body, css {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+    body {
+    background-color: ghostwhite;
+  }
+    .dark-mode {
+    background-color: black;
+    color: white;
+  }
+    section {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    text-align: left;
+  }
+     #title {
+    display: block;
+  }
+  
